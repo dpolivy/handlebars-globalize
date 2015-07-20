@@ -1,0 +1,30 @@
+{
+  "name": "handlebars-globalize",
+  "description": "A set of helpers for using globalize from within Handlebars templates.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dpolivy/handlebars-globalize",
+  "bugs": "https://github.com/dpolivy/handlebars-globalize/issues",
+  "license": "MIT",
+  "author": "Dan Polivy",
+  "contributors": [],
+  "keywords": [
+    "handlebars",
+    "i18n",
+    "globalize"
+  ],
+  "main": "lib/handlebars-globalize.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "moment": "^2.10.3"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dpolivy/handlebars-globalize"
+  }
+}
